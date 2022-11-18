@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marek Dworecki
 - 📖 I'm a student of the University of Life Sciences in Wrocław, majoring in Geodesy and Cartography
-- 👀 I’m interested in music and of course Front-End
+- 👀 I’m interested in music and of Web Development
 - 🌱 I’m currently learning how to create websites with JS and React.JS
 - 📫 How to reach me: marek.dworecki01@gmail.com
 
