@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marek Dworecki
 - 📖 I'm a student of the University of Life Sciences in Wrocław, majoring in Geodesy and Cartography
 - 👀 I’m interested in music and Web Development
-- 🌱 I’m currently learning how to create websites with JS and React.JS
+- 🌱 I’m currently learning how to create websites with React
 - 📫 How to reach me: marek.dworecki01@gmail.com
 
 <!---
