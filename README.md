@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Marek Dworecki
 - 📖 I'm a student of the University of Life Sciences in Wrocław, majoring in Geodesy and Cartography
-- 👀 I’m interested in music and Web Development
-- 🌱 I’m currently learning how to create websites with React
+- 👀 I’m interested in music
 - 📫 How to reach me: marek.dworecki01@gmail.com
+
+Technologies I am learning:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,python,vscode,idea)](https://skillicons.dev)
 
 <!---
 MDworecki404/MDworecki404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
