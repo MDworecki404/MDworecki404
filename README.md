@@ -5,7 +5,7 @@
 
 Technologies I am learning:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,threejs,react,ts,nodejs,python,vscode,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,threejs,react,ts,vue,nodejs,python,vscode,idea)](https://skillicons.dev)
 
 <!---
 MDworecki404/MDworecki404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
