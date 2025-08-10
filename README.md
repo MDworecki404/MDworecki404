@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Marek Dworecki
-- 📖 I'm a student of the University of Life Sciences in Wrocław, majoring in Geodesy and Cartography
-- 👀 I’m interested in music
-- 📫 How to reach me: marek.dworecki01@gmail.com<br><br>
 <a href="https://www.linkedin.com/in/marek-dworecki/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/mdworecki535/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <br><br>Technologies I am learning:
