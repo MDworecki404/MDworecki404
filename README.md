@@ -2,6 +2,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,vue,nodejs,vscode)](https://skillicons.dev)
 
+<a href="https://verified.sertifier.com/en/verify/03740819746122/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/5e832698-7561-4084-8add-97dfbc0ccb6a" alt="Certyfikat Sertifier" width="300" height="300" />
+</a>
 
 <!---
 MDworecki404/MDworecki404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
