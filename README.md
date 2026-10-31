@@ -64,8 +64,11 @@ More on [dworecki.dev/projects](https://dworecki.dev/projects) 👈
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MDworecki404&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDworecki404&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./metrics-isocalendar.svg" alt="3D contribution calendar" />
+</p>
+
+<p align="center">
+  <img src="./metrics-overview.svg" alt="GitHub overview" />
 </p>
 
 ### 📫 Get in touch
